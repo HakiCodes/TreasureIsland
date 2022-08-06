@@ -1,2 +1,2 @@
 # TreasureIsland
-Small Little Treasure Island Game
+Just a small little treasure island choose your own adventure game for fun
